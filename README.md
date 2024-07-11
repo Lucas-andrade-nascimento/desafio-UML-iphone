@@ -32,3 +32,5 @@ classDiagram
     class IPhone {
     }
 ```
+
+Diagrama implementado em Java conforme o solicitado pelo o [desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo]).
